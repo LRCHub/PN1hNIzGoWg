@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Moonstruck",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-01-06T15:04:13.291697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "Scarlet",
+      "has_synced": true,
+      "path": "select/01_Moonstruck_Scarlet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "ITO KANAKO",
+      "has_synced": false,
+      "path": "select/02_Moonstruck_ITO_KANAKO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "いとうかなこ",
+      "has_synced": false,
+      "path": "select/03_Moonstruck_いとうかなこ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "Eternity's End",
+      "has_synced": false,
+      "path": "select/04_Moonstruck_Eternity's_End.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "Action Bronson",
+      "has_synced": true,
+      "path": "select/05_Moonstruck_Action_Bronson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MOONSTRUCK (Nico's Song)",
+      "artist": "John Cale",
+      "has_synced": true,
+      "path": "select/06_MOONSTRUCK_(Nico's_Song)_John_Cale.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "Sheer Mag",
+      "has_synced": true,
+      "path": "select/07_Moonstruck_Sheer_Mag.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moonstruck Dance",
+      "artist": "Chen-U",
+      "has_synced": true,
+      "path": "select/08_Moonstruck_Dance_Chen-U.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "Madd Pooch",
+      "has_synced": true,
+      "path": "select/09_Moonstruck_Madd_Pooch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MOONSTRUCK (Nico's Song)",
+      "artist": "Cale, John",
+      "has_synced": true,
+      "path": "select/10_MOONSTRUCK_(Nico's_Song)_Cale,_John.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/11_Moonstruck_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/12_Moonstruck_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moonstruck (29 September 2023)",
+      "artist": "Los Campesinos!",
+      "has_synced": false,
+      "path": "select/13_Moonstruck_(29_September_2023)_Los_Campesinos!.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moonstruck",
+      "artist": "The Hazytones",
+      "has_synced": false,
+      "path": "select/14_Moonstruck_The_Hazytones.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moonstruck",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_Moonstruck_ENHYPEN.txt"
+    }
+  ]
+}
